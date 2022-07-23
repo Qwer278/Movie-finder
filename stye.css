@@ -1,0 +1,22 @@
+body{
+    background-color: darkslateblue;
+}
+.div{
+    position: absolute;
+    left:50%;
+    top: 30%;
+    transform: translate(-50%,-50%);
+    border: 5px solid black;
+    padding: 3%;
+    background-color: rgb(163, 108, 214);
+}
+input{
+    border: 2px solid black;
+}
+#one{
+    position: absolute;
+    left:56%;
+    top: 65%;
+    transform: translate(-50%,-50%);
+
+}
